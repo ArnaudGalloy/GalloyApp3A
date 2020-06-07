@@ -1,0 +1,2 @@
+rootProject.name='GalloyApp3A'
+include ':app'
